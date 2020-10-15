@@ -16,8 +16,8 @@ Please refer with all questions, comments, bug reports, etc. to fengfeng_scut@16
 
 REQUIREMENTS:
 The following libraries should be intalled before running the code:
-	python v2.7.15 or newer versions
-	numpy v1.15.4 or new versions
-	scipy v1.1.0 or newer versions
-	sklearn v0.20.3
+	python v2.7.15 or newer versions;
+	numpy v1.15.4 or new versions;
+	scipy v1.1.0 or newer versions;
+	sklearn v0.20.3;
 	pyDOE v0.3.8
