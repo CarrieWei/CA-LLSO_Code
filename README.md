@@ -6,7 +6,7 @@ Implementation of Classifier-Assisted Level-Assisted Learning Swarm Optimizer (C
 
 Feng-Feng Wei, Wei-Neng Chen, Qiang Yang, Jeremiah Deng, Xiao-Nan Luo, Hu Jin and Jun Zhang, 
 "A Classifier-Assisted Level-Based Learning Swarm Optimizer for Expensive Optimization", 
-IEEE Transactions on Evolutionary Computation, accepted, 2020.
+_IEEE Transactions on Evolutionary Computation_, vol.25, no.2, pp.219-233, 2021.
 
 This paper and this code should be referenced whenever they are used to generate results for the user's own research.
 
